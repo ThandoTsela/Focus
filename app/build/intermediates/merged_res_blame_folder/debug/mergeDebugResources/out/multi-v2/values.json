@@ -4,23 +4,6 @@
             "outputFile": "com.example.focus.app-mergeDebugResources-29:/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/thandotsela/Documents/Richmond Stuff/Spring 2024/Android Programming/Focus/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,41",
-                        "endOffsets": "92,134"
-                    },
-                    "to": {
-                        "startLines": "640,957",
-                        "startColumns": "4,4",
-                        "startOffsets": "32798,56345",
-                        "endColumns": "41,41",
-                        "endOffsets": "32835,56382"
-                    }
-                },
-                {
                     "source": "/Users/thandotsela/.gradle/caches/transforms-3/e672a49e0171c3769689c41a76b0815e/transformed/recyclerview-1.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -114,22 +97,20 @@
                     }
                 },
                 {
-                    "source": "/Users/thandotsela/Documents/Richmond Stuff/Spring 2024/Android Programming/Focus/app/src/main/res/values/themes.xml",
+                    "source": "/Users/thandotsela/Documents/Richmond Stuff/Completed classes/Spring 2024/Android Programming/Focus/app/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "2,7",
+                        "startLines": "2,3",
                         "startColumns": "4,4",
-                        "startOffsets": "100,320",
-                        "endLines": "5,7",
-                        "endColumns": "12,58",
-                        "endOffsets": "314,374"
+                        "startOffsets": "55,97",
+                        "endColumns": "41,41",
+                        "endOffsets": "92,134"
                     },
                     "to": {
-                        "startLines": "2458,6372",
+                        "startLines": "640,957",
                         "startColumns": "4,4",
-                        "startOffsets": "172548,445667",
-                        "endLines": "2461,6372",
-                        "endColumns": "12,57",
-                        "endOffsets": "172656,445720"
+                        "startOffsets": "32798,56345",
+                        "endColumns": "41,41",
+                        "endOffsets": "32835,56382"
                     }
                 },
                 {
@@ -186,20 +167,22 @@
                     }
                 },
                 {
-                    "source": "/Users/thandotsela/Documents/Richmond Stuff/Spring 2024/Android Programming/Focus/app/src/main/res/values/strings.xml",
+                    "source": "/Users/thandotsela/Documents/Richmond Stuff/Completed classes/Spring 2024/Android Programming/Focus/app/src/main/res/values/themes.xml",
                     "from": {
-                        "startLines": "1,3",
+                        "startLines": "2,7",
                         "startColumns": "4,4",
-                        "startOffsets": "16,117",
-                        "endColumns": "42,69",
-                        "endOffsets": "54,182"
+                        "startOffsets": "100,320",
+                        "endLines": "5,7",
+                        "endColumns": "12,58",
+                        "endOffsets": "314,374"
                     },
                     "to": {
-                        "startLines": "1965,1984",
+                        "startLines": "2458,6372",
                         "startColumns": "4,4",
-                        "startOffsets": "130193,132480",
-                        "endColumns": "42,69",
-                        "endOffsets": "130231,132545"
+                        "startOffsets": "172548,445667",
+                        "endLines": "2461,6372",
+                        "endColumns": "12,57",
+                        "endOffsets": "172656,445720"
                     }
                 },
                 {
@@ -219,6 +202,23 @@
                         "endLines": "35,649,650,651,652,1040,1041,1042,2161,5510,5513,5516,10128",
                         "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12,24",
                         "endOffsets": "1687,33537,33599,33661,33725,61955,62012,62066,153948,387422,387548,387676,668707"
+                    }
+                },
+                {
+                    "source": "/Users/thandotsela/Documents/Richmond Stuff/Completed classes/Spring 2024/Android Programming/Focus/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "16,117",
+                        "endColumns": "42,69",
+                        "endOffsets": "54,182"
+                    },
+                    "to": {
+                        "startLines": "1965,1984",
+                        "startColumns": "4,4",
+                        "startOffsets": "130193,132480",
+                        "endColumns": "42,69",
+                        "endOffsets": "130231,132545"
                     }
                 },
                 {

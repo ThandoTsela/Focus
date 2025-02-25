@@ -84,9 +84,9 @@ public class HomeActivity extends AppCompatActivity {
 
         //Declare the database to check username and password
         DBClass db=new DBClass(getApplicationContext(), "Database0");
-        //String name = db.getName(username);
+        String name = db.getName(username);
 
-        //welcomeText.setText("Welcome, "+ name);
+        welcomeText.setText("Welcome, "+ name);
 
         userCalender = Calendar.getInstance();
          //Set up the calendar view
